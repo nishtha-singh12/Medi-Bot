@@ -1,5 +1,7 @@
 # Medical RAG Chatbot & Eye Image Generator 🏥👁️
 
+- **Live Demo** :  https://medical-chatassistant.streamlit.app/
+
 An intelligent, locally-hosted medical assistant powered by **Retrieval-Augmented Generation (RAG)** and **Ollama**. This application allows users to ask complex medical questions based on specialized PDF data and accurately retrieves semantic images of eye structures. This project demonstrates backend skills, local AI orchestration, database design, and frontend visualization.
 
 ## 🌟 Features
