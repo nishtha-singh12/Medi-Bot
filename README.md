@@ -20,12 +20,6 @@ An intelligent, locally-hosted medical assistant powered by **Retrieval-Augmente
 
 ---
 
-## 📸 Demonstration
-<!-- Developer Note: Take a screenshot of your app or record a 15-second screen-recording with QuickTime/Loom, convert it to a GIF, drag-and-drop it here inside this README file! This is the #1 most important thing interviewers look at! -->
-> **Insert App Screenshot or Demo GIF Here!**
-
----
-
 ## 🚀 Quick Start / Local Setup
 
 Interviewers or developers looking to run this application locally will need to have [Ollama](https://ollama.com/) installed on their machine.
